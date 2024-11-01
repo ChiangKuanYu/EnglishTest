@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EnglishTest/static/css/main.647adc18.css",
+    "main.js": "/EnglishTest/static/js/main.4adfc41b.js",
+    "static/media/NaikaiFont-Regular-Lite.woff2": "/EnglishTest/static/media/NaikaiFont-Regular-Lite.37643d6efe9617462b2a.woff2",
+    "static/media/logo.png": "/EnglishTest/static/media/logo.cd728c1dc396af184b5e.png",
+    "index.html": "/EnglishTest/index.html",
+    "main.647adc18.css.map": "/EnglishTest/static/css/main.647adc18.css.map",
+    "main.4adfc41b.js.map": "/EnglishTest/static/js/main.4adfc41b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.647adc18.css",
+    "static/js/main.4adfc41b.js"
+  ]
+}
