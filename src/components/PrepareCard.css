@@ -1,0 +1,36 @@
+.prepareCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 80%;
+}
+
+.prepareCard h1{
+    /* text-align:center; */
+    font-size: 2rem;
+    padding-bottom: 20px;
+}
+
+.prepareCard hr{
+    border: 1px solid rgb(115, 115, 115);
+    /* border-radius: 4px; */
+    width:85%;
+    margin-bottom: 20px;
+}   
+
+.prepareCard .content{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.prepareCard .content label{
+    padding-bottom: 20px;
+    font-size: 1.2rem;
+}
+
+.prepareCard .content .ingredient{
+    color: red;
+}
+
